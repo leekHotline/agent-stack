@@ -76,12 +76,12 @@ graph TB
     M --> A
     M --> E
     
-    style I fill:#9f6
-    style J fill:#9f6
-    style K fill:#9f6
-    style A fill:#69f
-    style E fill:#f96
-    style G fill:#f69
+    style I fill:#99ff66
+    style J fill:#99ff66
+    style K fill:#99ff66
+    style A fill:#6699ff
+    style E fill:#ff9966
+    style G fill:#ff6699
 ```
 
 ## 🏆 Top Ranking (Overall)
@@ -101,12 +101,12 @@ graph TB
 11. **[Hono](https://hono.dev/)** - 轻量级 Web 框架，支持多运行时
 12. **[LlamaIndex](https://www.llamaindex.ai/)** - 数据框架，用于将 LLM 连接到外部数据
 13. **[Vitest](https://vitest.dev/)** - 基于 Vite 的单元测试框架
-14. **[Playwright](https://playwright.dev/)** - 端到端测试框架，支持多浏览器
+14. **[Playwright](https://playwright.dev/)** - 现代化的端到端测试框架，支持多浏览器和移动端测试
 15. **[Turborepo](https://turbo.build/)** - 高性能的 Monorepo 构建系统
 16. **[Biome](https://biomejs.dev/)** - Rust 编写的代码格式化和检查工具
 17. **[Lucia Auth](https://lucia-auth.com/)** - 简单易用的认证库
 18. **[LiteLLM](https://litellm.ai/)** - 统一的 LLM API 接口
-19. **[CrewAI](https://www.crewai.com/)** - 多 Agent 协作框架
+19. **[CrewAI](https://www.crewai.io/)** - 多 Agent 协作框架
 20. **[OpenTelemetry](https://opentelemetry.io/)** - 云原生可观测性标准
 
 ## 🧩 Categories
@@ -117,7 +117,7 @@ graph TB
 
 - **[Bun](https://bun.sh/)** - 一体化 JavaScript 运行时，集成包管理、构建工具和测试框架
 - **[Node.js](https://nodejs.org/)** - 最成熟的 JavaScript 运行时环境
-- **[Deno](https://deno.com/)** - 安全的 TypeScript/JavaScript 运行时
+- **[Deno](https://deno.land/)** - 安全的 TypeScript/JavaScript 运行时
 
 #### 📦 Package Managers
 
@@ -139,7 +139,7 @@ graph TB
 #### Testing
 
 - **[Vitest](https://vitest.dev/)** - 基于 Vite 的单元测试框架，与 Vite 深度集成
-- **[Playwright](https://playwright.dev/)** - 现代化的端到端测试框架，支持多浏览器
+- **[Playwright](https://playwright.dev/)** - 现代化的端到端测试框架，支持多浏览器和移动端测试
 - **[pytest](https://pytest.org/)** - Python 最流行的测试框架
 - **[MSW](https://mswjs.io/)** - API Mock 工具，用于测试和开发
 
@@ -192,7 +192,7 @@ graph TB
 
 #### Agent Systems
 
-- **[CrewAI](https://www.crewai.com/)** - 多 Agent 协作框架，让 AI Agents 像团队一样工作
+- **[CrewAI](https://www.crewai.io/)** - 多 Agent 协作框架，让 AI Agents 像团队一样工作
 - **[AutoGen](https://microsoft.github.io/autogen/)** - 微软的多 Agent 对话框架
 - **[OpenAI Swarm](https://github.com/openai/swarm)** - OpenAI 的轻量级多 Agent 编排框架
 - **[BabyAGI](https://github.com/yoheinakajima/babyagi)** - AI 驱动的任务管理系统
@@ -295,7 +295,7 @@ Next.js + Expo + Supabase + Prisma
 1. **[LangChain](https://langchain.com/)** - 生态最丰富，社区最活跃
 2. **[LlamaIndex](https://www.llamaindex.ai/)** - RAG 应用首选
 3. **[DSPy](https://github.com/stanfordnlp/dspy)** - 可优化的提示工程
-4. **[CrewAI](https://www.crewai.com/)** - 多 Agent 协作最佳
+4. **[CrewAI](https://www.crewai.io/)** - 多 Agent 协作最佳
 5. **[AutoGen](https://microsoft.github.io/autogen/)** - 微软支持，企业级
 
 ## 🤝 Contribution
